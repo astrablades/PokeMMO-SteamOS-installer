@@ -8,3 +8,5 @@ download PokeMMO-Client.zip from [here](https://pokemmo.com/download_file/1/) an
 run install.sh
 ### step 3
 play
+### optional
+download PokeMMO.desktop and edit it for a desktop shortcut
